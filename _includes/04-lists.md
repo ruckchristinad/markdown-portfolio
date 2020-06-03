@@ -1,1 +1,8 @@
-Replace this with a list of your favorite things.
+#### fave pets
+
+* dogs
+  * remy
+* cats
+  * sherlock
+  * gizmo
+  * nev
